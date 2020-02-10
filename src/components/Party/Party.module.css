@@ -1,0 +1,47 @@
+/* .party {
+} */
+
+.title {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 35px;
+  text-align: center;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: center;
+  margin: 0 0 0 -30px;
+  padding: 0;
+}
+
+.character {
+  width: 180px;
+  height: 220px;
+  background: #dadada;
+  margin: 0 0 0 30px;
+  padding: 0;
+  position: relative;
+}
+
+.character img {
+  width: 180px;
+  height: 220px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.characterName {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 28px;
+  text-align: center;
+  margin: 165px auto 0 auto;
+
+  color: #ffffff;
+}

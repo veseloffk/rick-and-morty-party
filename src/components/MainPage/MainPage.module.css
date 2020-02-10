@@ -1,0 +1,13 @@
+.wrapper {
+  margin: 141px 195px 142px 195px;
+}
+
+.inputWrapper {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 30px;
+}
+
+.charactersWrapper {
+  width: 100%;
+}
